@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@valdio/react-native-scrollable-tabview": "^0.8.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.12.1",
     "react": "16.8.6",
     "react-native": "0.60.3",
